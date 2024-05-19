@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Jamiel!
+# 👋 Olá! Eu sou Jamiel!
 
 Tenho 26 anos e sou um entusiasta de jogos, tecnologia e fantasia. Estou começando minha jornada na programação, com um interesse especial em:
 
